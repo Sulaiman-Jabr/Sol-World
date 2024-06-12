@@ -1,5 +1,5 @@
 # Sol-World
 Web Development
-Here Iam gonna share everything about my life. Books Iam reading, Games Iam Playing, Stories and Events
+Here I am gonna share everything about my life. Books Iam reading, Games I am Playing, Stories and Events
 
-
+Demo:
